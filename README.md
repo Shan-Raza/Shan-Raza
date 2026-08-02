@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Shan Raza </h1>
 <h3 align="center">Software Developer @ HBL</h3>
 
 <p align="center">
@@ -83,7 +83,7 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/shan-raza-8891a4b1" target="_blank">
+  <a href="https://www.linkedin.com/in/shan-raza-8891a4b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:smsr.rizvi@gmail.com">
