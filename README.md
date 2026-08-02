@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">Full Stack Developer | Software Developer @ HBL</h3>
+<h3 align="center">Software Developer @ HBL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,7 +13,7 @@
 - 🖥️ I build full stack applications — from responsive front-ends to robust back-end APIs
 - 🌱 I work across the **.NET** and **web** ecosystems, with hands-on experience in relational databases and API testing/automation
 - ⚙️ Comfortable with both procedural (C) and object-oriented (C#, OOPs) programming
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **[smsr.rizvi@gmail.com]**
 
 ---
 
@@ -33,6 +33,7 @@
 <p>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 **Databases**
@@ -82,13 +83,13 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/shan-raza-8891a4b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:smsr.rizvi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/Shan-Raza" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
